@@ -11,6 +11,6 @@
     <string name="bt_closed">botao fechar</string>
     <string name="name_card">Nome</string>
     <string name="label_show_success">Cartão cadastro com sucesso.</string>
-    <string name="label_share_to">Compartilhar</string>
+    <string name="label_share_to">Compartilha</string>
 
 </resources>
